@@ -13,15 +13,11 @@ This repository is the unofficial implementation of the following paper.
 Reproduces ResNeXt (Aggregated Residual Transformations for Deep Neural Networks) with tensorflow2.x.
 
 ## History
+  - Aug19: Updata README
 
--Aug 19. Update the README
+## Authors 
 
-## Authors or Maintainers
-
-> :memo: Provide maintainer information.  
-
-* Full name ([@GitHub username](https://github.com/username))
-* Full name ([@GitHub username](https://github.com/username))
+* Full name ([weichen456](https://github.com/weichen456))
 
 ## Table of Contents
 
