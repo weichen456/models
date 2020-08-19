@@ -54,9 +54,9 @@ pip install -r requirements.txt
 >  
 > ### Image Classification  
 >  
-> | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
+> | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  config | log |
 > |------------|----------|----------------|----------------|  
-> | Model name | [Checkpoint](https://drive.google.com/...), [SavedModel](https://tfhub.dev/...) | xx% | xx% |  
+> | Model name | [Checkpoint](https://drive.google.com/...), [SavedModel](https://tfhub.dev/...) | xx% | xx% |  ## | ## |
 
 ## Dataset
 
