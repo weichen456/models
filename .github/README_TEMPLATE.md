@@ -17,7 +17,7 @@ Reproduces ResNeXt (Aggregated Residual Transformations for Deep Neural Networks
 
 ## Authors 
 
-* Full name ([weichen456](https://github.com/weichen456))
+* ([weichen456](https://github.com/weichen456))
 
 ## Table of Contents
 
