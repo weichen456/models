@@ -1,17 +1,12 @@
-> :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
->  
-> * Template version: 1.0.2020.170  
-> * Please modify sections depending on needs.  
 
-# Model name, Paper title, or Project Name
+# ResNeXt
 
-> :memo: Add a badge for the ArXiv identifier of your paper (arXiv:YYMM.NNNNN)
 
-[![Paper](http://img.shields.io/badge/Paper-arXiv.YYMM.NNNNN-B3181B?logo=arXiv)](https://arxiv.org/abs/...)
+[![Paper](Aggregated Residual Transformations for Deep Neural Networks)](https://arxiv.org/pdf/1611.05431.pdf)
 
-This repository is the official or unofficial implementation of the following paper.
+This repository is the unofficial implementation of the following paper.
 
-* Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
+* Paper title: [Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)
 
 ## Description
 
