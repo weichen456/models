@@ -14,7 +14,7 @@ Reproduces ResNeXt (Aggregated Residual Transformations for Deep Neural Networks
 
 ## History
 
-> :memo: Provide a changelog.
+-Aug 19. Update the README
 
 ## Authors or Maintainers
 
