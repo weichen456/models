@@ -10,10 +10,7 @@ This repository is the unofficial implementation of the following paper.
 
 ## Description
 
-> :memo: Provide description of the model.  
->  
-> * Provide brief information of the algorithms used.  
-> * Provide links for demos, blog posts, etc.  
+Reproduces ResNeXt (Aggregated Residual Transformations for Deep Neural Networks) with tensorflow2.x.
 
 ## History
 
